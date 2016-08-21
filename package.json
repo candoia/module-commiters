@@ -1,0 +1,16 @@
+{
+  "name": "module-commiters",
+  "productName": "Developers of Critical Files",
+  "version": "0.0.1",
+  "author": "Nitin Mukesh Tiwari <nmtiwari@iastate.edu>",
+  "description": "Display number of developers fixing issues in each module.",
+  "main": "main.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/candoia/module-commiters"
+  },
+  "icon": {
+  	"type": "fa",
+  	"name": "certificate"
+  }
+}
